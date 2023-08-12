@@ -2,7 +2,7 @@ import Image from 'next/image'
 import Codeplays from './codeplays'
 import Navbar from './navbar'
 import Introduction from './introduction'
-import MySkills from './myskills'
+import Myskills from './myskills'
 import Recentwork from './recentwork'
 import Collaborate from './collaborate'
 import Contactme from './contactme'
@@ -13,7 +13,7 @@ export default function Home() {
       <Navbar/>
 <Codeplays/>
 <Introduction/>
-<MySkills/>
+<Myskills/>
 <Recentwork/>
 <Collaborate/>
 <Contactme/>
